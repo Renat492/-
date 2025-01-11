@@ -1,0 +1,168 @@
+body{
+    background-color: #DCDCDC;
+}
+.list{
+    display: flex;
+    justify-content: center;
+    gap: 54px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.item{
+    border-right: 2px solid white;
+    padding-right:23px ;
+    max-width: 170px;
+    height: 57px;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+    
+}
+header{
+    background-color:#202846;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.qwery{
+    padding-left: 138px;
+    width: 178px;
+    height: 70px;
+}
+h1{
+    background-color:#5c6ca5;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:white;
+}
+#one{
+    position: relative;
+    left:200px ;
+    top:20px ;
+}
+#two{
+    position: relative;
+    left: 700px;
+    bottom: 220px;
+    font-size: 30px;
+}
+#three{
+    position: relative;
+    left: 700px;
+    bottom: 190px;
+    border: 1px solid white;
+    padding: 10px;
+    width: 600px;
+    height: 200px;
+    text-align: justify;
+    font-size: 25px;
+}
+#four{
+    position:relative;
+    left: 1200px;
+    bottom: 500px;
+    font-size: 20px;
+    color: blue;
+}
+#five{
+    position: relative;
+    left: 70px;
+    bottom: 160px;
+}
+#six{
+    position: relative;
+    left: 700px;
+    bottom: 400px;
+    font-size: 30px;
+}
+#seven{
+    position: relative;
+    left: 700px;
+    bottom: 350px;
+    border: 1px solid white;
+    padding: 10px;
+    width: 600px;
+    height: 200px;
+    text-align: justify;
+    font-size: 25px;
+}
+#eight{
+    position:relative;
+    left: 1200px;
+    bottom: 680px;
+    font-size: 20px;
+    color: blue;
+}
+#nine{
+    position: relative;
+    left: 70px;
+    bottom: 350px;
+}
+#ten{
+    position: relative;
+    left: 700px;
+    bottom: 580px;
+    font-size: 30px;
+}
+#eleven{
+    position: relative;
+    left: 700px;
+    bottom: 550px;
+    border: 1px solid white;
+    padding: 10px;
+    width: 600px;
+    height: 200px;
+    text-align: justify;
+    font-size: 25px;
+}
+#twelve{
+    position:relative;
+    left: 1200px;
+    bottom: 850px;
+    font-size: 20px;
+    color: blue;
+}
+#threeteen{
+    position: relative;
+    left: 70px;
+    bottom: 530px ;
+}
+#fourteen{
+    position: relative;
+    left: 700px;
+    bottom: 760px;
+    font-size: 30px;
+}
+#fiveteen{
+    position: relative;
+    left: 700px;
+    bottom: 750px;
+    border: 1px solid white;
+    padding: 10px;
+    width: 600px;
+    height: 200px;
+    text-align: justify;
+    font-size: 25px; 
+}
+#sixteen{
+    position:relative;
+    left: 1200px;
+    bottom: 810px;
+    font-size: 20px;
+    color: blue;
+}
+footer {
+    background: #202846;
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+    padding: 30px 60px;
+    position: relative;
+    bottom: 750px;
+  } 
